@@ -20,3 +20,7 @@ Use of a convolutional deep neural network, implemented with keras from tensorfl
 - Test accuracy : 0.9713
 
 ![image](https://user-images.githubusercontent.com/80787460/156606326-88edc5e7-5256-4529-82a6-0d773d65cac9.png)
+
+
+I didn't try to optimize more than that the parameters, it was just to make a small introduction on the mnist dataset. 
+It is possible to reach an accuracy > 99%, there are probably free notebooks available on the internet to do this.
