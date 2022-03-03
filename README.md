@@ -1,1 +1,1 @@
-# -MNIST-CNN-using-TensorFlow-and-Keras
+# MNIST classification with CNN using TensorFlow and Keras
